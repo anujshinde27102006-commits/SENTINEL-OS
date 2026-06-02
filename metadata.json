@@ -1,0 +1,6 @@
+{
+  "name": "Secure Web Application",
+  "description": "An interactive web application demonstrating web security measures including authentication, role-based authorization, secure structured data storage, input sanitization, and OWASP Top 10 mitigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
